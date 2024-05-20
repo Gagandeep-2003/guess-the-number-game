@@ -15,4 +15,3 @@ Goal of the game is to find the mystery or unknown digit which is random between
 At each guess you will be given a hint like too low or too high <br>
 Each guess will take 1 out of your score so you can set highscore by getting the number in less guesses  
 <br><br>
-I Made this javascript game while completing a course by <b>Jonas Schmedtmann</b>.
